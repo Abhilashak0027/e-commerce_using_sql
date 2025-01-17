@@ -1,0 +1,31 @@
+﻿payment_id,order_id,payment_date,payment_amount,payment_method
+1,1,10-01-2022,100,Credit Card
+2,2,12-01-2022,45.99,PayPal
+3,3,15-01-2022,120,Debit Card
+4,4,18-01-2022,80,Credit Card
+5,5,01-02-2022,160,Credit Card
+6,6,05-02-2022,25.5,PayPal
+7,7,10-02-2022,110,Debit Card
+8,8,12-02-2022,250,Credit Card
+9,9,20-02-2022,75,Credit Card
+10,10,25-02-2022,135,Debit Card
+11,11,01-03-2022,100,PayPal
+12,12,05-03-2022,102,Credit Card
+13,13,07-03-2022,45.99,PayPal
+14,14,10-03-2022,120,Credit Card
+15,15,12-03-2022,120,Debit Card
+16,16,15-03-2022,50,Credit Card
+17,17,20-03-2022,220,PayPal
+18,18,22-03-2022,225,Credit Card
+19,19,01-04-2022,91.98,Debit Card
+20,20,05-04-2022,45,PayPal
+21,21,10-04-2022,160,Credit Card
+22,22,15-04-2022,150,PayPal
+23,23,18-04-2022,250,Credit Card
+24,24,22-04-2022,51,Debit Card
+25,25,01-05-2022,40,Credit Card
+26,26,05-05-2022,183.96,PayPal
+27,27,10-05-2022,90,Debit Card
+28,28,15-05-2022,55,PayPal
+29,29,18-05-2022,150,Credit Card
+30,30,01-06-2022,150,Debit Card

@@ -1,0 +1,31 @@
+﻿Product_id,product_name,category,price
+1,iPhone 13,Electronics,799.99
+2,Samsung Galaxy S21,Electronics,699.99
+3,MacBook Pro 13,Electronics,1299.99
+4,HP Pavilion Laptop,Electronics,549.99
+5,Dell XPS 13,Electronics,1099.99
+6,Sony WH-1000XM4,Electronics,348.99
+7,Bose QuietComfort,Electronics,299.99
+8,Apple Watch Series 7,Wearables,399.99
+9,Fitbit Charge 5,Wearables,179.99
+10,Nike Air Max 2021,Footwear,120
+11,Adidas Ultraboost,Footwear,180
+12,Reebok Nano X1,Footwear,130
+13,Levi's 511 Jeans,Apparel,59.99
+14,Wrangler Jeans,Apparel,49.99
+15,Nike Dri-FIT Shirt,Apparel,25.99
+16,Columbia Jacket,Apparel,999.09
+17,North Face Hoodie,Apparel,79.99
+18,Canon EOS 90D,Cameras,1199.99
+19,Nikon D3500,Cameras,449.99
+20,GoPro Hero 10,Cameras,499.9
+21,Bose SoundLink II,Audio,129.99
+22,JBL Flip 5,Audio,89.99
+23,Sonos One,Audio,199.99
+24,Kindle Paperwhite,Books,129.99
+25,Harry Potter Box Set,Books,99.99
+26,The Alchemist,Books,15.99
+27,LEGO Star Wars Set,Toys,59.99
+28,Barbie Dreamhouse,Toys,179.99
+29,Hot Wheels Track,Toys,49.99
+30,Xbox Series X,Gaming,499.9
